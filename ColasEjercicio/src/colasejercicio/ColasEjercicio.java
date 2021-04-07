@@ -101,7 +101,7 @@ public class ColasEjercicio {
         if (tamaño == tamaño2) {
             System.out.println("Tiene el mismo tamaño ambas colas");
         } else {
-            System.out.println("No tiene el mismo tamaño ambas colas");
+            System.out.println("No tiene el mismo tamaño las colas");
         }
     }
 }
